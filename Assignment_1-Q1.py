@@ -1,3 +1,8 @@
+# 18-09-2023
+# CSC461 – Assignment1 – Web Scraping
+# Muhammad Tayab
+# Fa21-bse-030
+
 import requests
 from bs4 import BeautifulSoup
 import time
