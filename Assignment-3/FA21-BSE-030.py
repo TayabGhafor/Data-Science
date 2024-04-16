@@ -3,7 +3,7 @@
 # Muhammad Tayab
 # FA21-BSE-030
 # There are two questions given in the Assignment-3 related to the Graph Analysis. 
-#we have to solve them using graphs concepts.
+#  we have to solve them using graphs concepts.
 
 '''
 Question-1:
